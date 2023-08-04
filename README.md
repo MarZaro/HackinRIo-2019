@@ -1,13 +1,13 @@
-# HackinRio-2020-uranusmicrolearning
-*Pdf de apresentação final do projeto - Plataforma microlearning (HackinRio-2020)
+# HackinRio-2020-uranomicrolearning
+*Telas de wireframe do projeto - Plataforma microlearning (HackinRio-2020)
 
 
 HackinRIO 2020 - Time "Formigueiro de cauda preta"
 Participação no Hackathon HackinRIO 2020 (Edição COVID-19).
 
-Sobre a minha participação nas atividades realizadas::
+Sobre a minha contribuição nas atividades realizadas:
 
-- Conceituação sobre Biomimética.
+- Conceito de Biomimética.
 - Gestão de design (Metodologias ágeis, ferramentas de negócios, etc);
 - Design UX. Desenvolvimento do Wireframe.
 - Design gáfico das apresentações e telas finais.
